@@ -1,4 +1,4 @@
-## Micromouse Autonomous Robot - Electronic System Redesign
+## Autonomous Micromouse Robot - Electronic System Redesign
 
 # Overview
 This repository documents the development of the electronic systems for an autonomous Micromouse robot, developed as a member of an academic robotics team. The project represents a strategic hardware iteration from the legacy Version 1 architecture to a high-performance framework, specifically engineered to meet the reliability and precision requirements of autonomous maze navigation.
